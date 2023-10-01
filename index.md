@@ -4,21 +4,35 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Algorithms Deep Dive
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Link to another page](https://github.com/vivekbabu/AlgorithmsTest).
 
-## Header 2
+In this project we have a look at various data structures and algorithms used in computer programming. We look at 
+- Stacks
+- Queues
+- Trees
+- Graphs
 
-> This is a blockquote following a header.
+We also look at algorithms like
+- Greedy Algorithms
+- Dynamic Programming
+- DFS & BFS
+- Graph Algorithms
+
+## Threads Deep Dive
+
+> Threads are the building blocks of applications
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> They make your applications look seemless and make your life as user beautiful
+
+This repository consists of a set of classes that allow us to understand the threads in detail
 
 ### Header 3
 
