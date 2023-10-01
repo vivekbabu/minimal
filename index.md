@@ -10,9 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Algorithms Deep Dive
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In this project we have a look at various data structures and algorithms used in computer programming. We look at 
+- Stacks
+- Queues
+- Trees
+- Graphs
+
+We also look at algorithms like
+- Greedy Algorithms
+- Dynamic Programming
+- DFS & BFS
+- Graph Algorithms
 
 ## Header 2
 
