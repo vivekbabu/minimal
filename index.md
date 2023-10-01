@@ -4,13 +4,15 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Algorithms Deep Dive
+
+[Link to Repository](https://github.com/vivekbabu/AlgorithmsTest).
 
 In this project we have a look at various data structures and algorithms used in computer programming. We look at 
 - Stacks
